@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAccessibilityUsageDescription</key>
+	<string>BetterDrag needs accessibility access to enable dragging windows from anywhere on your screen while holding the Command key.</string>
+	<key>LSUIElement</key>
+	<true/>
+</dict>
+</plist>
